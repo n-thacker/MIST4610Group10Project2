@@ -8,12 +8,12 @@
 
 ## Describing the Dataset
 
-## Question 1 
-# Visualization 
-# Manipulations
-# Analysis and Results
+# Question 1 
+## Visualization 
+## Manipulations
+## Analysis and Results
 
-## Question 2 
-# Visualization
-# Manipulations
-# Analysis and Results
+# Question 2 
+## Visualization
+## Manipulations
+## Analysis and Results
