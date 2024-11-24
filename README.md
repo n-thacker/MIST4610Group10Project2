@@ -1,4 +1,4 @@
-# MIST 4610 Team 10 Group Project 1 
+# MIST 4610 Team 10 Group Project 2
 ## Team Name
 4610Fa24Group10
 
