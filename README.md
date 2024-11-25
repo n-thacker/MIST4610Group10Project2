@@ -18,6 +18,14 @@ Knowing which descents in the population are victim to certain crimes can allow 
 
 ### Visualization 
 ![p1](https://github.com/user-attachments/assets/06a1e813-ff30-47ea-b40c-b74db684adcb)
+![p2](https://github.com/user-attachments/assets/26cf88ba-f823-4cc5-a11b-f647bc71083c)
+![p3](https://github.com/user-attachments/assets/f77daa4e-169a-48f6-84d6-488ea16582a8)
+![p4](https://github.com/user-attachments/assets/6a9ffa7c-5c38-4d2f-b9be-274aab76ffb4)
+![p5](https://github.com/user-attachments/assets/a3497833-e561-4c2a-86ae-16b094688cb5)
+![p6](https://github.com/user-attachments/assets/03d5b171-3ceb-4184-95ec-6eeda70d6b74)
+![p7](https://github.com/user-attachments/assets/802c7ea5-2f5c-462c-befd-5751fdb8af4c)
+![p8](https://github.com/user-attachments/assets/b0bb9810-c4ac-4e3f-9a38-8926caabeb0f)
+![p9](https://github.com/user-attachments/assets/ceb9485a-893b-4539-96bc-29435f7a603f)
 ![p10](https://github.com/user-attachments/assets/6a3945a2-cd2c-4af0-ba74-8e3d77d1288d)
 
 ### Manipulations
