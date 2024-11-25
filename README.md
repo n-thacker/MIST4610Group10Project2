@@ -56,7 +56,7 @@ To create the visualization in Tableau, the data was altered for efficiency. The
 The visualization provided insights regarding future patterns of crime in the different areas. For context, the lines representing the predicted forecast are lighter in color, and the darker lines represent actual data from the dataset. According to the estimation, over the next two years, crime rates will not have a significant change in the majority of areas. However, the Central and Van Nuys areas, on the other hand, have a discernible decline in crime. This indicates that those two areas have successful strategies and operations that would be useful in other struggling areas. The results emphasize the value of communication between areas, as exchanging more effective tactics may improve the effectiveness of crime prevention in other areas.
 
 ## Tableau File
-The packaged Tableau workbook containing the visualizations is attached to this repository.
+The packaged Tableau workbook containing the visualizations is available [here](https://drive.google.com/file/d/15VVzMtVswgCX4vxCUgzWNwiV-1HwfkUY/view?usp=sharing).
 
 ## Presentation File:
 [MIST4610 Group Project 2 Presentation](https://docs.google.com/presentation/d/1mtWjV2PD5ErVfyruj9rhXnFr_Nm4JiCdXVZYa0byuDs/edit?usp=sharing)
