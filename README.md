@@ -7,7 +7,7 @@
 2. Addie Rollins [@addisonrollins](https://github.com/arollins5/MIST-GroupProject2)
 
 # Description of the Dataset:
-Our dataset details the crimes that occurred in Los Angeles from 2020 to present day. The dataset was provided through (https://catalog.data.gov/dataset/crime-data-from-2020-to-present). This dataset contains 28 fields which included String, Date & Time, and Whole Number data types. The String datatype was used in fields such as the type of crime, the location it took place in, and the descent of the victim of the crime. The Whole Number datatype was used in fields such the report number (Dr no), crime code, and the the area of LA that the crime took place in. The Date & Time datatype includes fields that detail the time the crime occurred as well as the time that the crime was officially reported. Overall, this dataset uses different datatypes in numerous ways to create many openings for examining the crimes of Los Angeles. 
+Our dataset details the crimes that occurred in Los Angeles from 2020 to present day. The dataset was provided through (https://catalog.data.gov/dataset/crime-data-from-2020-to-present). This dataset contains 28 fields which included String, Date & Time, and Whole Number data types when examined within Tableau. The String datatype was used in fields such as the type of crime, the location it took place in, and the descent of the victim of the crime. The Whole Number datatype was used in fields such the report number (Dr no), crime code, and the the area of LA that the crime took place in. The Date & Time datatype includes fields that detail the time the crime occurred as well as the time that the crime was officially reported. Overall, this dataset uses different datatypes in numerous ways to create many openings for examining the crimes of Los Angeles. 
 
 
 # Question 1 
@@ -34,6 +34,13 @@ Knowing which descents in the population are victim to certain crimes can allow 
 ![ca3](https://github.com/user-attachments/assets/834f2878-579d-4ec5-be81-c855ffd51c0d)
 ![ca4](https://github.com/user-attachments/assets/fc65857a-d50b-4123-ae30-9f78a648aee6)
 ![ca5](https://github.com/user-attachments/assets/e5483d88-8a86-4321-9fc1-d816feddb5d5)
+
+### Visualization of Human Trafficking within Descent B 
+![ht1](https://github.com/user-attachments/assets/acbafe77-5b94-46fe-aee2-05c99feb167f)
+![ht2](https://github.com/user-attachments/assets/df1a4447-e096-44f2-90c8-9c3eccf9b259)
+![ht3](https://github.com/user-attachments/assets/5a7435de-5572-4920-9588-2681cbc026cc)
+![ht4](https://github.com/user-attachments/assets/48657655-34cc-42b6-a5ef-3189f2ed3996)
+![ht5](https://github.com/user-attachments/assets/ba536cc8-2996-4975-b6c2-e76b4cf7eb69)
 
 ### Manipulations
 In order to achieve this view, the victim descent rows needed to exclude the rows that were designated as Null and had a non-descriptor entry. With this, the legend provided by the LAPD for their victim descent codes now matched the dataset. The victim descent rows originally only provided the letter code for each descent; for easier interpretation of the data, each descent row was edited to include the letter code as well as the descent that it corresponds with per the LAPD. Dr No, the case numbers for each crime, were originally expected by Tableau to be summed up which needed to be changed into a count in order to measure every single report that was filed based on descent. To find percent of victimization, Dr No count underwent a quick calculation to convert the count into a percent of total column so that the percent of victimization based on crime could be assessed by descent. Using Analysis in Tableau, a grand row total percentage was also calculated to see overall which descents were most often victims of crimes. For clarity and visibility, a Square Color Marker was used on the percentage of totals per column to make it easier for users to quickly identify which descents held majority victimization per crime. 
