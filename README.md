@@ -3,8 +3,8 @@
 4610Fa24Group10
 
 ## Group Members
-- Addie Rollins [@addisonrollins](https://github.com/arollins5/MIST-GroupProject2)
 - Nozomi Thacker [@nozomithacker](https://github.com/n-thacker/MIST4610Group10Project2)
+- Addie Rollins [@addisonrollins](https://github.com/arollins5/MIST-GroupProject2)
 
 ## Description of the Dataset:
 Our dataset details the crimes that occurred in Los Angeles from 2020 to present day. We found it on the provided [US Data gov website](https://catalog.data.gov/dataset/crime-data-from-2020-to-present). This dataset contains 28 fields of attributes about the crime. According to Tableau, the dataset includes `String`, `DateTime`, and `Whole Number` data types. The `String` data type was used in fields such as the type of crime, the location it took place in, and the descent of the victim of the crime. The `Number` datatype was used in fields such as the report number (`Dr no`), the codes of the crimes committed, and the area of LA that the crime took place in. The `DateTime` datatype includes fields that detail the time the crime occurred as well as the time that the crime was officially reported. Overall, this dataset uses different datatypes in numerous ways to create many openings for examining the crimes of Los Angeles. Below is a list of the 28 fields with descriptions of what each captures.  
