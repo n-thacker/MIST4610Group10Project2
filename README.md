@@ -29,8 +29,8 @@ Knowing which descents in the population are victim to certain crimes can allow 
 ![p9](https://github.com/user-attachments/assets/dd0f4f65-5c66-44ac-b3b7-699cc8dbd0cf)
 ![p10](https://github.com/user-attachments/assets/6a3945a2-cd2c-4af0-ba74-8e3d77d1288d)
 
-
 ## Manipulations
+In order to achieve this view, the victim descent rows needed to exclude the rows that were designated as Null and had a non-descriptor entry. With this, the legend provided by the LAPD for their victim descent codes now matched the dataset. The victim descent rows originally only provided the letter code for each descent; for easier interpretation of the data, each descent row was edited to included the letter code as well as the descent that it corresponds with per the LAPD. Dr No, the case numbers for each crime, were orignally expected by Tableau to be summed up which needed to be changed into a count in order to measure every single report that was filed based on descent. To find percent of victimization, Dr No count underwent a quick calculation to conver the count into a percent of total column so that the percent of victimization based on crime could be asssessed by descent. Using Analysis in Tableau, a grand row total percentage was also calculated to see overall which descents were most often victims of crimes. For clarity and visibility, a Square Color Marker was used on the percentage of totals per column to make it easier for users to quickly identify which descents held majority victimization per crime. 
 
 ## Analysis and Results
 
